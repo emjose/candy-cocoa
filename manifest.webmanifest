@@ -1,0 +1,40 @@
+{
+	"name": "Candy and Cocoa",
+	"short_name": "Candy and Cocoa",
+	"icons": [
+		{
+			"src": "Assets/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "Assets/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "Assets/android-chrome-200x200.png",
+			"sizes": "200x200",
+			"type": "image/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "Assets/favicon-16x16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "Assets/favicon-32x32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#ffe6eb",
+	"background_color": "#ffe6eb",
+	"display": "standalone",
+	"lang": "en-US",
+	"id": "https://candy-cocoa.vercel.app/",
+	"start_url": "/",
+	"scope": "/",
+	"description": "Candy and cocoa-themed landing pages."
+}
