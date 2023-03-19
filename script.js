@@ -9,7 +9,6 @@ function switchMode() {
 	const targetTheme = currentTheme === "light" ? "dark" : "light";
 	document.documentElement.setAttribute("data-theme", targetTheme);
 	localStorage.setItem("theme", targetTheme);
-	location.reload();
 }
 
 document.addEventListener("DOMContentLoaded", () => {
