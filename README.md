@@ -180,7 +180,7 @@ On mobile devices and smaller screens, the navbar collapses into a hamburger men
 
 - To improve responsiveness, editing the typography or swapping the hero images on smaller devices should be considered to ensure that the navigation links remain legible over the hero image.
 
-- The repeating "Museum of" headlines at the top of the website are decorative and are hidden from the accessibility API using the **[`aria-hidden="true"`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-hidden)** attribute. However, Chrome DevTools flags these headlines for lack of color contrast. Further investigation and style editing is needed to improve accessibility for users who rely on assistive technologies.
+- The repeating "Museum of" headlines at the top of the website are decorative and are hidden from the accessibility API using the **[`aria-hidden="true"`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-hidden)** attribute. However, Chrome DevTools flags these headlines for lack of color contrast. Further investigation and style editing is needed to improve accessibility for users who rely on assistive technologies. Deployment test
 
 <br>
 
