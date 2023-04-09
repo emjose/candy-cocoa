@@ -1,5 +1,5 @@
 const CACHE_NAME = "candy-cocoa-v1";
-const urlsToCache = ["/", "/index.html", "/script.js", "/style.css"];
+const urlsToCache = ["/"];
 
 self.addEventListener("install", (event) => {
 	event.waitUntil(
