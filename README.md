@@ -244,6 +244,8 @@ On mobile devices and smaller screens, the navbar collapses into a hamburger men
 
 - Tiramisu cake slice – Photo by [BINYOUSSIF](https://unsplash.com/@binyoussif?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/eRPE6WP5Qjc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
+- All other visual assets of this project are copyright of © <a href="https://www.emmanuel-jose.com/">Emmanuel Jose</a>. All Rights Reserved.
+
 <br>
 
 #
