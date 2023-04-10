@@ -102,7 +102,7 @@ open index.html
 
 <a href=#live-site>![Click below to expand GIFs](https://res.cloudinary.com/dn1e07eul/image/upload/v1660771913/Readme%20Headers/inter-click-below-to-expand-gifs-sub_dremgj.png)</a>
 
-**I apologize for any delay in the loading of GIFs. Thank you for your patience.**
+**Please pardon any delay in the loading of GIFs. Thank you for your patience.**
 
 <br>
 
